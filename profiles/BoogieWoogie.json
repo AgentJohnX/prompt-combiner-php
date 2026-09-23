@@ -1,0 +1,10 @@
+{
+  "master_prompt": "Vibrant retro 1950s comic book style boogie-woogie album cover featuring [THEME], [COMIC_ENERGY_MOOD], large stylized [TYPOGRAPHY_STYLE] reading \"Boogie Woogie\", dynamic pulp comic aesthetic, high contrast, clean vector cell shading, no extra text, no logos --ar 1:1 --v 6.0",
+  "variables": {
+    "THEME": [],
+    "COMIC_ENERGY_MOOD": [],
+    "TYPOGRAPHY_STYLE": []
+  },
+  "max_prompts": 100,
+  "randomize": true
+}
